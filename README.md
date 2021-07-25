@@ -10,4 +10,4 @@ This is a recipes app made in flutter.
   * Now run the app
 
 ## Some ScreenShots of App
-![alt text](https://github.com/Sushant0402/recipes/blob/master/images/1.jpg "Logo Title Text 1")
+![test image size](https://github.com/Sushant0402/recipes/blob/master/images/1.jpg){:height="50%" width="50%"}
