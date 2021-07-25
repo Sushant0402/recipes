@@ -10,4 +10,4 @@ This is a recipes app made in flutter.
   * Now run the app
 
 ## Some ScreenShots of App
-![test image size](https://github.com/Sushant0402/recipes/blob/master/images/1.jpg){:class="img-responsive"}
+<img src="https://github.com/Sushant0402/recipes/blob/master/images/1.jpg" width="48">
